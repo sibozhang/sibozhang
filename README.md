@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sibo Zhang (博博) 
+# 👋 Hi there, I'm Sibo Zhang 
 
 🎓 Master's student in Master of Science in Information Technology (Japan)  
 💡 Passionate about Data Science, AI, and Machine Learning  
@@ -47,7 +47,7 @@ I am currently a graduate student at KCGI, focusing my research on the applicati
 
 ---
 
-## ⚡ Fun Fact
+## ⚡️ Fun Fact
 
 When I'm not coding or analyzing data, I'm usually researching budget-friendly and space-saving ways to brew the perfect cup of coffee at home! ☕
 
