@@ -39,7 +39,7 @@ I am currently a graduate student at KCGI, focusing my research on the applicati
 
 ## 📚 Learning Journey
 
-- **Courses:** Completed *Python for Everybody* (Coursera), exploring Google Cloud "Vibe Coding" with Firebase.
+- **Courses:** Completed *Python for Everybody* (Coursera), exploring IBM "IBM Data Science Professional Certificate".
 - **Current Goals:** Deepening knowledge in Machine Learning algorithms and improving English proficiency (TOEIC goal: 700+).
 
 ---
